@@ -1,0 +1,23 @@
+body {
+    color: hsl(0, 0%, 21%);
+    background-color: rgba(140, 171, 212, 0.993);
+  }
+  h1{
+      font-size: 36px;
+    
+  }
+  h2 {
+    
+
+    font-size: 28px;
+  }
+  h1,h2{
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+  ul {
+    list-style-type: upper-latin;
+  }
+  
+  ol {
+    list-style-type: upper-roman;
+  }
